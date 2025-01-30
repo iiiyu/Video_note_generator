@@ -1,5 +1,5 @@
 import os
-from moviepy.editor import VideoFileClip
+from moviepy import VideoFileClip
 
 from src.logger import app_logger
 

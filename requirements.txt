@@ -9,4 +9,4 @@ pytube==15.0.0
 setuptools==75.1.0
 yt_dlp==2024.12.23
 python-unsplash==1.2.5
-moviepy~=2.1.1
+moviepy~=2.1.2
